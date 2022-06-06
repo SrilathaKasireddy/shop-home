@@ -75,7 +75,7 @@ function App() {
   <a href="#home">Home</a>
   <a href="#About">About</a>
   <div class="dropdown">
-    <button class="dropbtn">Shop
+    <button class="dropbtn">Shop👇
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -121,7 +121,7 @@ export function Counter() {
 
 
   }
-  const data = "Successfully Added to Cart"
+  const data = "Successfully Added to Cart!!😊"
 
   const click = () => {
     setCount(count + 1)

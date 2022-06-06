@@ -192,3 +192,11 @@ img{
 .dropdown:hover .dropdown-content {
   display: block;
 }
+.show{
+  width:50%;
+  height:30px
+}
+.show:hover{
+  background-color:black;
+  color:white;
+}
